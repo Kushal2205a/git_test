@@ -5,6 +5,9 @@ staged : Marked for inclusion in the next commit
 committed: Saved to repository's history
 
 the git status command shows the current status of the repo
+
+tree : git's way of storing a directory 
+blob: git's way of storing a file
 """
 
 
